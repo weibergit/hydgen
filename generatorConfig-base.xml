@@ -50,7 +50,7 @@
 		<!-- 指定表 -->
 		<!-- <table schema="" tableName="sysuser" /> -->		
 		<!-- 系统用户这里不指定schema，逆向工程会查询sysuser都有哪些schema，对每个schema生成对象 -->
-	    <table schema="" tableName="sysuser" />
+	    <table schema="" tableName="ORG_ROLE" />
 		
 		
 
